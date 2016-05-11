@@ -1,0 +1,8 @@
+
+					     //Verifying lead record data in IWD 
+					     //boolean con = sMilitaryTypeText.contains(UiDuplicateLeadCompletion.txtMilitaryType.getText().trim());
+					     boolean con = sMilitaryTypeText.contains(UiDuplicateLeadCompletion.txtMilitaryType.getText().trim());
+					     
+					     
+					  System.out.println(con);
+					     Assert.assertTrue(con);

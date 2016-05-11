@@ -1,0 +1,6 @@
+@Test()
+       public void today_date(){
+         Date dt = new Date();
+         String modifiedDate= new SimpleDateFormat("MMddYYYY").format(dt);
+         System.out.print("date hai: "+modifiedDate);
+       }

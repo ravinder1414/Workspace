@@ -1,0 +1,7 @@
+//td[text()='LeadUpdate']/parent::tr
+
+
+TestNGFNInfoCall_TsFUQ TestNGLNInfoCall_TsFUQ
+
+
+//label[text()='EWC']/parent::td/following-sibling::td/span

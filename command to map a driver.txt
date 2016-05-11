@@ -1,0 +1,1 @@
+net use x: \\10.78.7.60\selenium_scripts   command for mapping to  a driver
