@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32382" started-at="2016-03-11T12:09:51Z" finished-at="2016-03-11T12:10:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32382" started-at="2016-03-11T12:09:51Z" finished-at="2016-03-11T12:10:24Z">
+      <class name="testNG_Practices.ElementPresentCheck">
+        <test-method status="PASS" signature="start()[pri:0, instance:testNG_Practices.ElementPresentCheck@964823]" name="start" is-config="true" duration-ms="15308" started-at="2016-03-11T17:39:51Z" finished-at="2016-03-11T17:40:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:testNG_Practices.ElementPresentCheck@964823]" name="Test" duration-ms="17060" started-at="2016-03-11T17:40:06Z" finished-at="2016-03-11T17:40:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+      </class> <!-- testNG_Practices.ElementPresentCheck -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
